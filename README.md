@@ -148,6 +148,8 @@ plt.show()
 
 ### iii)Image shearing
 <br>
+
+
 ![image](https://user-images.githubusercontent.com/94219582/232055103-3993b169-d048-4ec7-9928-183e5d7dde44.png)
 
 
